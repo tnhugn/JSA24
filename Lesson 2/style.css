@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-bar{
+    width: 5%
+}
+.nav-bar-right{
+    width: 80%;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: #555;
+    text-align: center;
+    line-height: 30px;
+    align-items: 80%;
+}
+.full-nav{
+    display: flex;
+    height: 30px;
+    justify-content: space-between;
+}
+body{
+    background-color: rgb(148, 121, 236);
+}
